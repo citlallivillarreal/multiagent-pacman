@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4978bc0c-52db-4038-83de-a4556d557db9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../search/autograder.py" beforeDir="false" afterPath="$PROJECT_DIR$/../search/autograder.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/eightpuzzle.py" beforeDir="false" afterPath="$PROJECT_DIR$/../search/eightpuzzle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../search/ghostAgents.py" beforeDir="false" afterPath="$PROJECT_DIR$/../search/ghostAgents.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tracking/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tracking/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tracking/CS188" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tracking/busters.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tracking/busters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tracking/bustersAgents.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tracking/bustersAgents.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tracking/bustersGhostAgents.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tracking/bustersGhostAgents.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tracking/distanceCalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tracking/distanceCalculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tracking/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tracking/game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tracking/ghostAgents.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tracking/ghostAgents.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tracking/grading.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tracking/grading.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tracking/graphicsDisplay.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tracking/graphicsDisplay.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tracking/graphicsUtils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tracking/graphicsUtils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tracking/inference.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tracking/inference.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tracking/layout.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tracking/layout.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tracking/pacman.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tracking/pacman.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tracking/projectParams.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tracking/projectParams.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tracking/textDisplay.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tracking/textDisplay.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tracking/trackingTestClasses.py" beforeDir="false" afterPath="$PROJECT_DIR$/../tracking/trackingTestClasses.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="10b46352-35a2-46fb-8e81-f89ee810289c" />
+  <component name="ProjectId" id="1u0bnH00wQdGG6bjEar4cnu7ZKc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4978bc0c-52db-4038-83de-a4556d557db9" name="Default Changelist" comment="" />
+      <created>1623805618859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623805618859</updated>
+      <workItem from="1623805619966" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
